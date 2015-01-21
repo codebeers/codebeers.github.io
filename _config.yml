@@ -8,15 +8,15 @@ url: "http://paulodiovani.github.io/" # the base hostname & protocol for your si
 
 contacts:
   -
-    name: Paulo Diovani Gonçalves
-    email: paulo@diovani.com
-    twitter_username: paulodiovani
-    github_username:  paulodiovani
-  -
     name: Gabriel Molter
     email: gabriel.molter@gmail.com
     twitter_username: gabriel_molter
     # github_username: gabriel_molter
+  -
+    name: Paulo Diovani Gonçalves
+    email: paulo@diovani.com
+    twitter_username: paulodiovani
+    github_username:  paulodiovani
 
 # permalinks for blog posts
 permalink: "/blog/:categories/:year/:month/:day/:title/"
