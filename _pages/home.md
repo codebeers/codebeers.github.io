@@ -28,7 +28,7 @@ touch with our website and contacts to know when and where is the next.
   <li class="schedule">
     <i class="watermark fa fa-map-marker"></i>
     <div class="info">
-      <h3>Campus 3</h3>
+      <h3>Campus 3 bar</h3>
       R. Emílio Hauschild, 16 <br>
       Novo Hamburgo, RS
     </div>
