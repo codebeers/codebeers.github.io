@@ -1,5 +1,58 @@
 h2.logo {
-  font-size: 4em;
+  font-size: 4.5em;
   text-align: center;
   color: #818181;
+}
+
+.banners {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  .schedule {
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 140px;
+
+    .info {
+      padding: 20px 60px;
+      font-size: 1em;
+      color: #818181;
+
+      h3 {
+        font-size: 1.8em;
+        font-weight: bold;
+      }
+    }
+
+    .watermark {
+      position: absolute;
+      top: 0px;
+      font-size: 120px;
+      opacity: .2;
+      z-index: -1;
+    }
+
+    // distribute in left and right sides
+    &:nth-child(odd) {
+      text-align: left;
+      .watermark { left: 0px; }
+    }
+
+    &:nth-child(even) {
+      text-align: right;
+      .watermark { right: 0px; }
+    }
+
+    a {
+      display: block;
+      color: inherit;
+      text-decoration: underline;
+
+      &:hover {
+        color: #1756a9;
+      }
+    }
+  }
 }
