@@ -21,15 +21,15 @@ touch with our website and contacts to know when and where is the next.
   <li class="schedule">
     <i class="watermark fa fa-clock-o"></i>
     <div class="info">
-      <h3>February, 23 <br>
+      <h3>March, 03 <br>
       7:00pm</h3>
     </div>
   </li>
   <li class="schedule">
     <i class="watermark fa fa-map-marker"></i>
     <div class="info">
-      <h3>Campus 3 bar</h3>
-      R. Emílio Hauschild, 16 <br>
+    <h3>Campus 3 <small>Rock Bar</small></h3>
+      Rua Santos, 792 <br>
       Novo Hamburgo, RS
     </div>
   </li>
