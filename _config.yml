@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Code Beers is a periodic meeting for developers who wants to talk,
   share knowledge and drink beer.
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://paulodiovani.github.io/" # the base hostname & protocol for your site
-github_url: "https://github.com/paulodiovani/code-beers"
+url: "http://codebeers.github.io/" # the base hostname & protocol for your site
+github_url: "https://github.com/codebeers/codebeers.github.io"
 
 contacts:
   -

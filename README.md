@@ -2,6 +2,8 @@
 
 Code Beers is a periodic meeting for developers who wants to talk, share knowledge and drink beer.
 
+http://codebeers.github.io/
+
 ## How to run
 
 You must have [Jekyll](http://jekyllrb.com/) installed. So, clone the repos and run.
