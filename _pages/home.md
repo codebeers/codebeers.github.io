@@ -34,16 +34,24 @@ touch with our website and contacts to know when and where is the next.
     </div>
   </li>
   <li class="schedule">
-    <i class="watermark fa fa-usd"></i>
+    <i class="watermark fa fa-check"></i>
     <div class="info">
-        <h3 markdown="1">[Be a sponsor][sponsor]</h3>
+        <h3 markdown="1">[Register][eventick]</h3>
+        Registration is not required, but will
+        help us to improve the meetup.
     </div>
   </li>
   <li class="schedule">
     <i class="watermark fa fa-video-camera"></i>
     <div class="info">
-        <h3 markdown="1">[Submit a work][call-papers]</h3>
+        <h3 markdown="1">[Submit a talk][call-papers]</h3>
         For presenting on the meeting
+    </div>
+  </li>
+  <li class="schedule">
+    <i class="watermark fa fa-usd"></i>
+    <div class="info">
+        <h3 markdown="1">[Be a sponsor][sponsor]</h3>
     </div>
   </li>
   <li class="schedule">
@@ -56,6 +64,8 @@ touch with our website and contacts to know when and where is the next.
 </ul>
 
 [sponsor]: mailto:{{ site.contacts[1].email }}?cc={{ site.contacts[0].email }}&subject="[Code Beers] Let me be a sponsor"
+
+[eventick]: http://eventick.com.br/code-beers
 
 [call-papers]: mailto:{{ site.contacts[1].email }}?cc={{ site.contacts[0].email }}&subject="[Code Beers] I want to submit a work"
 
