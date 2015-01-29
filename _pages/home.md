@@ -3,11 +3,7 @@ layout: page
 permalink: /
 ---
 
-<h2 class="logo">
-  <i class="fa fa-chevron-left"></i>
-  <i class="fa fa-beer"></i>
-  <i class="fa fa-chevron-right"></i>
-</h2>
+<img src="img/header-code-beers.png" alt="">
 
 **Code Beers** is a Developers meeting created to exchange knowledge
 about technology, tendencies and pratices while drinking beer.
