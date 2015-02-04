@@ -63,6 +63,6 @@ touch with our website and contacts to know when and where is the next.
 
 [eventick]: http://eventick.com.br/code-beers
 
-[call-papers]: mailto:{{ site.contacts[1].email }}?cc={{ site.contacts[0].email }}&subject="[Code Beers] I want to submit a work"
+[call-papers]: {% post_url 2015-02-03-call-for-papers %}
 
 [github]: {{ site.github_url }}

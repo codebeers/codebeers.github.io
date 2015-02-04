@@ -20,7 +20,7 @@ contacts:
     github_username:  paulodiovani
 
 # permalinks for blog posts
-permalink: "/blog/:categories/:year/:month/:day/:title/"
+permalink: "/blog/:year/:month/:day/:title/"
 paginate_path: "blog/page:num/"
 paginate: 5
 
