@@ -60,3 +60,25 @@ h3 small {
     }
   }
 }
+
+.topic-choose {
+  b.topic {
+    font-family: monospace;
+    font-size: 0.8em;
+    font-weight: normal;
+    border: 1px solid gray;
+    border-radius: 2px;
+    white-space: nowrap;
+    padding: 2px 4px;
+    cursor: default;
+
+    &:hover {
+      color: $background-color;
+      background: $text-color;
+    }
+  }
+}
+
+div.clear {
+  @extend %clearfix;
+}
