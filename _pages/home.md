@@ -59,7 +59,7 @@ touch with our website and contacts to know when and where is the next.
   </li>
 </ul>
 
-[sponsor]: mailto:{{ site.contacts[1].email }}?cc={{ site.contacts[0].email }}&subject="[Code Beers] Let me be a sponsor"
+[sponsor]: {% post_url 2015-02-10-be-a-sponsor %}
 
 [eventick]: http://eventick.com.br/code-beers
 
