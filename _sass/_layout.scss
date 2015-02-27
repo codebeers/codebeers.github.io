@@ -237,3 +237,20 @@
         }
     }
 }
+
+.alert {
+  background-color: #F3E5AB;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+
+  a {
+    display: block;
+    color: #CD7F32;
+  }
+
+  .big-icon {
+    float: right;
+    font-size: 4em;
+  }
+}
