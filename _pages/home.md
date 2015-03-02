@@ -13,13 +13,13 @@ touch with our website and contacts to know when and where is the next.
 
 ## Latest posts
 
-<ul class="post-list">
+<ul class="post-list post-list-small">
   {% for post in site.posts %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      <a class="post-link post-link-small" href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </a>
     </li>
   {% endfor %}
 </ul>
