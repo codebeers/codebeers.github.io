@@ -37,7 +37,8 @@ Remeber the date! **March, 17th**.
 ### Call for papers and sponsorship
 
 With the new date, the [Call for papers][call-papers] will be extender
-until March, 13th and the final programme will be released at Sunday.
+until March, 8th and the final programme will be released in the next
+moonday.
 
 [New sponsors][sponsor] will be wellcome, since we have a bit more
 time for negotiations.
