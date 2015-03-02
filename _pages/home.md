@@ -11,6 +11,19 @@ about technology, tendencies and pratices while drinking beer.
 The meetings occurs from time to time near Porto Alegre - RS. Keep in
 touch with our website and contacts to know when and where is the next.
 
+## Latest posts
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Next meeting
 
 <ul class="banners">
