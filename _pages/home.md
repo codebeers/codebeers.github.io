@@ -13,14 +13,6 @@ touch with our website and contacts to know when and where is the next.
 
 ## Next meeting
 
-<div class="alert">
-  <a href="{% post_url 2015-02-27-reschedule %}">
-    <i class="big-icon fa fa-exclamation-circle"></i>
-    <h4>Important! Meetup reschedule to March, 17th</h4>
-    Click for details.
-  </a>
-</div>
-
 <ul class="banners">
   <li class="schedule">
     <i class="watermark fa fa-clock-o"></i>
