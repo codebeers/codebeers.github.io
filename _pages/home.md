@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="img/header-code-beers.png" alt="">
+<img src="{{ site.baseurl }}/img/header-code-beers.png" alt="">
 
 **Code Beers** is a Developers meeting created to exchange knowledge
 about technology, tendencies and pratices while drinking beer.
