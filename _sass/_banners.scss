@@ -13,6 +13,8 @@ h3 small {
   margin: 0;
   padding: 0;
 
+  @extend %clearfix;
+
   .schedule {
     position: relative;
     float: left;
@@ -77,8 +79,4 @@ h3 small {
       background: $text-color;
     }
   }
-}
-
-div.clear {
-  @extend %clearfix;
 }
