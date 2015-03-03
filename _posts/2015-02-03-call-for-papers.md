@@ -20,8 +20,6 @@ by folowing the link bellow.
   </li>
 </ul>
 
-<div class="clear"></div>
-
 The topics are free, but must be somewhat related to _Technology <small>(or beer)</small>_.
 
 If you are finding it hard to choose a topic, we can suggest some:

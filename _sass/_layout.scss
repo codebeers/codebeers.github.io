@@ -260,6 +260,8 @@ ul.sponsor-logos {
     margin: 0;
     padding: 0;
 
+    @extend %clearfix;
+
     li {
         display: block;
         float: left;

@@ -53,12 +53,6 @@ touch with our website and contacts to know when and where is the next.
     </div>
   </li>
   <li class="schedule">
-    <i class="watermark fa fa-usd"></i>
-    <div class="info">
-        <h3 markdown="1">[Be a sponsor][sponsor]</h3>
-    </div>
-  </li>
-  <li class="schedule">
     <i class="watermark fa fa-github"></i>
     <div class="info">
         <h3 markdown="1">[Help the project][github]</h3>
@@ -70,10 +64,11 @@ touch with our website and contacts to know when and where is the next.
 ## Sponsors
 
 <ul class="sponsor-logos">
-  <li><a href="http://getupcloud.com"><img src="/img/logo-getup.png" alt="getupcloud"></a></li>
   <li><a href="http://codeminer42.com"><img src="/img/logo-codeminer.png" alt="codeminer"></a></li>
+  <li><a href="http://getupcloud.com"><img src="/img/logo-getup.png" alt="getupcloud"></a></li>
 </ul>
 
+Check out [how to be a sponsor][sponsor].
 
 [sponsor]: {% post_url 2015-02-10-be-a-sponsor %}
 
