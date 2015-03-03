@@ -67,6 +67,14 @@ touch with our website and contacts to know when and where is the next.
   </li>
 </ul>
 
+## Sponsors
+
+<ul class="sponsor-logos">
+  <li><a href="http://getupcloud.com"><img src="/img/logo-getup.png" alt="getupcloud"></a></li>
+  <li><a href="http://codeminer42.com"><img src="/img/logo-codeminer.png" alt="codeminer"></a></li>
+</ul>
+
+
 [sponsor]: {% post_url 2015-02-10-be-a-sponsor %}
 
 [eventick]: http://eventick.com.br/code-beers
