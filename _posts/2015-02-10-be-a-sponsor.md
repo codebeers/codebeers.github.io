@@ -37,6 +37,9 @@ provided for us properly highlighted, we would thank you and talk about your com
 the event as well.
 
 Every sponsor is also welcome to show its company information, product or project at the 
-meeting, we will reserve a time especially for you to talk with the participants (~5 minutes).
+meeting, we will reserve a time especially for you to talk with the participants.
+
+Take a look at our [sponsor quotas][quotas] for details.
 
 [sponsor-mail]: mailto:{{ site.contacts[1].email }}?cc={{ site.contacts[0].email }}&subject="[Code Beers] Let me be a sponsor"
+[quotas]: {% post_url 2015-02-26-sponsor-quotas %}
