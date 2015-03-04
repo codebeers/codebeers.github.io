@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="img/header-code-beers.png" alt="">
+<img src="{{ site.baseurl }}/img/header-code-beers.png" alt="">
 
 **Code Beers** is a Developers meeting created to exchange knowledge
 about technology, tendencies and pratices while drinking beer.
@@ -11,15 +11,20 @@ about technology, tendencies and pratices while drinking beer.
 The meetings occurs from time to time near Porto Alegre - RS. Keep in
 touch with our website and contacts to know when and where is the next.
 
-## Next meeting
+## Latest posts
 
-<div class="alert">
-  <a href="{% post_url 2015-02-27-reschedule %}">
-    <i class="big-icon fa fa-exclamation-circle"></i>
-    <h4>Important! Meetup reschedule to March, 17th</h4>
-    Click for details.
-  </a>
-</div>
+<ul class="post-list post-list-small">
+  {% for post in site.posts %}
+    <li>
+      <a class="post-link post-link-small" href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Next meeting
 
 <ul class="banners">
   <li class="schedule">
