@@ -14,7 +14,7 @@ touch with our website and contacts to know when and where is the next.
 ## Latest posts
 
 <ul class="post-list post-list-small">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 4 %}
     <li>
       <a class="post-link post-link-small" href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title }}
