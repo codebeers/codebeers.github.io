@@ -28,7 +28,7 @@ touch with our website and contacts to know when and where is the next.
 
 <ul class="banners">
   <li class="schedule">
-    <i class="watermark fa fa-clock-o"></i>
+    <i class="watermark fa fa-calendar-o"></i>
     <div class="info">
       <h3>March, 17th <br>
       7:00pm</h3>
@@ -46,15 +46,15 @@ touch with our website and contacts to know when and where is the next.
     <i class="watermark fa fa-check"></i>
     <div class="info">
         <h3 markdown="1">[Register][eventick]</h3>
-        Registration is not required, but will
-        help us to improve the meetup.
+        Please, register to help us keep track of
+        participants.
     </div>
   </li>
   <li class="schedule">
-    <i class="watermark fa fa-video-camera"></i>
+    <i class="watermark fa fa-clock-o"></i>
     <div class="info">
-        <h3 markdown="1">[Submit a talk][call-papers]</h3>
-        For presenting on the meeting
+        <h3 markdown="1">[Agenda][programme]</h3>
+        Check the programme
     </div>
   </li>
   <li class="schedule">
@@ -79,6 +79,6 @@ Check out [how to be a sponsor][sponsor].
 
 [eventick]: http://eventick.com.br/code-beers
 
-[call-papers]: {% post_url 2015-02-03-call-for-papers %}
+[programme]: {% post_url 2015-03-10-agenda %}
 
 [github]: {{ site.github_url }}
