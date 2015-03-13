@@ -5,7 +5,7 @@ date:   2015-03-13 14:00:00
 categories: schedule
 ---
 
-It was a coincidence, since we didn't know when scheduling the meetup,
+It was a coincidence, since we didn't know it when we were scheduling the meetup,
 but next Tuesday is St. **Patrick's Day**.
 
 We couldn't have a better date for Code Beers, so...
