@@ -24,39 +24,7 @@ touch with our website and contacts to know when and where is the next.
   {% endfor %}
 </ul>
 
-## Next meeting
-
 <ul class="banners">
-  <li class="schedule">
-    <i class="watermark fa fa-calendar-o"></i>
-    <div class="info">
-      <h3>March, 17th <br>
-      7:00pm</h3>
-    </div>
-  </li>
-  <li class="schedule">
-    <i class="watermark fa fa-map-marker"></i>
-    <div class="info">
-    <h3>Campus 3 <small>Rock Bar</small></h3>
-      Rua Santos, 792 <br>
-      Novo Hamburgo, RS
-    </div>
-  </li>
-  <li class="schedule">
-    <i class="watermark fa fa-check"></i>
-    <div class="info">
-        <h3 markdown="1">[Register][eventick]</h3>
-        Please, register to help us keep track of
-        participants.
-    </div>
-  </li>
-  <li class="schedule">
-    <i class="watermark fa fa-clock-o"></i>
-    <div class="info">
-        <h3 markdown="1">[Agenda][programme]</h3>
-        Check the programme
-    </div>
-  </li>
   <li class="schedule">
     <i class="watermark fa fa-github"></i>
     <div class="info">
@@ -64,13 +32,6 @@ touch with our website and contacts to know when and where is the next.
         On github
     </div>
   </li>
-</ul>
-
-## Sponsors
-
-<ul class="sponsor-logos">
-  <li><a href="http://codeminer42.com"><img src="/img/logo-codeminer.png" alt="codeminer"></a></li>
-  <li><a href="http://getupcloud.com"><img src="/img/logo-getup.png" alt="getupcloud"></a></li>
 </ul>
 
 Check out [how to be a sponsor][sponsor].
