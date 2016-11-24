@@ -1,8 +1,10 @@
-# Code Beers
+## :warning: [Code Beers is now DevBeers NH](http://codebeers.github.io/blog/2016/11/24/move-to-devbeers/)
 
-Code Beers is a periodic meeting for developers who wants to talk, share knowledge and drink beer.
+# ~~Code Beers~~
 
-http://codebeers.github.io/
+~~Code Beers is a periodic meeting for developers who wants to talk, share knowledge and drink beer.~~
+
+~~http://codebeers.github.io/~~
 
 ## How to run
 
